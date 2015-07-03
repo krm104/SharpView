@@ -1,0 +1,131 @@
+Subject 1
+Date: June 15, 2015
+Time: 9:00am
+
+Male - Non Japanese
+
+The subject was very excited about participating in the experiment and opted to not take any breaks. All 7 trial sets were completed in succession. The subject was not very consistent in response for the adjustment task however. They seemed to use only rough judgements but were often very high or low within the same trial set. The responses for experiment 3 were more inline with expectations. The subject noted that they were able to use the dark regions of the experiment 3 images for comparisons, but that the sets at 25 and 50 cm were difficult (same for the adjustment tasks).
+
+/////////////////////////////
+Subject 2
+Date:	June 15, 2015
+Time:	1:00pm
+
+Male - Japanese
+
+The subject's performance was quite erratic for both tasks. During adjustment the subject seemed to get stuck around a certain level. Often, for the same picture the adjustment would be low and then very high. A consistent threshold for each distance level was never formed. The results of the matching task are also odd. The subject missed the most matches at the farthest distance, which should have been the easiest since at 5m the screen and real picture should look nearly identical. The results of this subject inspired the implementation of the range gauge for the adjustment task
+
+//////////////////////////////
+Subject 3
+Date: June 16, 2015
+Time: 9:00am
+
+Female - Non Japanese
+
+This is the first subject to see the range gauge for experiment 2. This subject was given a much more thorough explanation of the adjustment process with emphasis on using the gauge as a guide for the amount of correction to give. Even still, the first 2 adjustment tasks were not as close to the calculated sigma as desired. However, the results of each distance were very consistent. The results of the matching task were surprising with the subject missing at least 5 matches or more at ever distance level including 5m. The subject did note that they used the dark regions of the images as guides. This at least confirms that the images are dissimilar enough to be meaningful. This subject inspires that a much more thorough explanation of the process be given to the subjects.
+
+//////////////////////////////
+Subject 4
+Date: June 16, 2015
+Time:	4:00pm
+
+Male - Japanese
+
+Professor Ikeda was in the room for the first adjustment and matching trial for this subject. The eye tracking was not stable for those sets, so gaze detection was turned off. I do not know if the subject was instructed to only look at the real image since they were given Japanese instructions. The adjustment task values were fairly consistent for this subject, with seldom deviation to high  values at times. The adjustment values were within expected limits to the calculated value for all distances but 25 cm. The matching results were unexpected however, with the subject missing a disproportionitly higher number at 5m. The subject took a very long time during the adjustment task, sometimes over 2-3 minutes per value
+
+///////////////////////////////
+Subject 5
+Date: June 16, 2015
+Time: 8:00pm
+
+Female - Japanese
+
+This subject had very good eye tracking. The answered very quickly in the adjustment task, on average less than 30 seconds, and their responses were not very consistent, with at least 1-2 .5 use sigma answers at each range. After this subject we modified the instructions yet again to inform the subject to take their time as they explore the range of sharpening.
+
+//////////////////////////////
+Subject 6
+Date: June 17, 2015
+Time: 9:00am
+
+Male - Japanese
+
+This subject wore glasses. The eye tracking, surprisingly, still worked quite effectively. Their results were very good for both adjustment and matching tasks.
+
+//////////////////////////////
+Subject 7
+Date: June 17, 2015
+Time: 1:00pm
+
+Male - Non Japanese
+
+This subject followed the new instructions for methodically progressing the sharpening gauge. Their adjustment values were within expected levels. Their matching results were lower than anticipated, however. They noted that they did use key features, such as darker portions of images to perform the task.
+
+//////////////////////////////
+Subject 8
+Date: June 17, 2015
+Time: 6:00pm
+
+Male - Japanese
+
+This subject was given the new instructions to adjust slowly, compare regions, and fine tune results. Their results were not as consistent ad the previous two, though. 
+
+//////////////////////////////
+Subject 9
+Date: June 18, 2015
+Time: 10:00am
+
+Male - Non Japanese
+
+This subject followed all instructions very well. They were very methodical at performing the adjustment task, and their results were within expected levels for each distance. The subject often noted that it was difficult to stay focused on the real image while mentally focusing on the screen image.
+
+//////////////////////////////
+Subject 10
+Date: June 18, 2015
+Time: 2:00pm
+
+Male - Japanese
+
+The subject performed the adjustment task very quickly. Their results were very low for every distance. Eye tracking was also difficult for this subject due to the small eye size.
+
+//////////////////////////////
+Subject 11
+Date: June 19, 2015
+Time: 10:00am
+
+Male - Non Japanese
+
+The subject, overall, performed within expected margins for all tasks. The subject took their time during adjustment and followed the instruction very well. Their adjustment results for 25cm, however, were far lower than expected and did not match the levels of the other distances. The subject did note that the close adjustment did require more sharpening. The starting values for adjustment for this subject were 30.0 and not 40.0 in the trial files.
+
+//////////////////////////////
+Subject 12
+Date: June 19, 2015
+Time: 1:00pm
+
+Male - Japanese
+
+Eye tracking did not work with this subject. Their eye lashes obstructed too much of the pupil for it to work effectively. The subject, overall, performed within expected margins. Their results for adjustment at 50cm, however, was far lower than it should be, and was inconsistent with the rest of the adjustment results. The matching results were as expected, though. The starting values for adjustment for this subject were 30.0 and not 40.0 in the trial files.
+
+///////////////////////////////
+Subject 13
+Date: June 19, 2015
+Time: 4:00pm
+
+Female - Japanese
+
+The experiment went very well with this subject. The eye tracking worked perfectly and they followed the instructions quite well also. The subject's responses for experiment 2 were, for the most part, consistent. 5m was not consistent, with some responses being low, and others being high. This was the first distance the user saw though. The other distances were far more stable and mostly inline with expected values. The matching task was also within expected values.
+
+///////////////////////////////
+Subject 14
+Date: June 23, 2015
+Time: 6:00pm
+
+Male - Japanese
+
+The eyetracking required a bit of adjustment for this subject. The threshold value for vanishing the virtual image was increased, since using the Pupil Labs values alone caused allot of flickering of the image. Other than this, the results from this subject, especially for experiment 2, are very good. The user sigma values were very consistent and well within the expected ranges for each distance.
+
+//////////////////////////////////
+Subject 15
+Date: June 24, 2015
+Time: 10:00am
+
+Male - Non Japanese

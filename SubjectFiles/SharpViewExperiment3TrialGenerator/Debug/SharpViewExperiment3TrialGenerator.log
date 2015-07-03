@@ -1,0 +1,24 @@
+﻿Build started 6/24/2015 9:42:27 AM.
+     1>Project "C:\Users\Master\Desktop\SharpView\SharpView_Experiment\SubjectFiles\SharpViewExperiment3TrialGenerator\SharpViewExperiment3TrialGenerator.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\SharpViewExperiment3TrialGenerator.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Experiment3TrialGenerator.cpp
+         Experiment3TrialGenerator.cpp
+     1>c:\users\master\desktop\sharpview\sharpview_experiment\subjectfiles\sharpviewexperiment3trialgenerator\experiment3trialgenerator.cpp(88): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\master\desktop\sharpview\sharpview_experiment\subjectfiles\sharpviewexperiment3trialgenerator\experiment3trialgenerator.cpp(133): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\master\desktop\sharpview\sharpview_experiment\subjectfiles\sharpviewexperiment3trialgenerator\experiment3trialgenerator.cpp(204): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\master\desktop\sharpview\sharpview_experiment\subjectfiles\sharpviewexperiment3trialgenerator\experiment3trialgenerator.cpp(275): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\master\desktop\sharpview\sharpview_experiment\subjectfiles\sharpviewexperiment3trialgenerator\experiment3trialgenerator.cpp(346): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\master\desktop\sharpview\sharpview_experiment\subjectfiles\sharpviewexperiment3trialgenerator\experiment3trialgenerator.cpp(399): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Master\Desktop\SharpView\SharpView_Experiment\SubjectFiles\SharpViewExperiment3TrialGenerator\Debug\SharpViewExperiment3TrialGenerator.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\Master\Desktop\SharpView\SharpView_Experiment\SubjectFiles\SharpViewExperiment3TrialGenerator\Debug\SharpViewExperiment3TrialGenerator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Master\Desktop\SharpView\SharpView_Experiment\SubjectFiles\SharpViewExperiment3TrialGenerator\Debug\SharpViewExperiment3TrialGenerator.lib" /MACHINE:X86 Debug\Experiment3TrialGenerator.obj
+         SharpViewExperiment3TrialGenerator.vcxproj -> C:\Users\Master\Desktop\SharpView\SharpView_Experiment\SubjectFiles\SharpViewExperiment3TrialGenerator\Debug\SharpViewExperiment3TrialGenerator.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\SharpViewExperiment3TrialGenerator.unsuccessfulbuild".
+         Touching "Debug\SharpViewExperiment3TrialGenerator.lastbuildstate".
+     1>Done Building Project "C:\Users\Master\Desktop\SharpView\SharpView_Experiment\SubjectFiles\SharpViewExperiment3TrialGenerator\SharpViewExperiment3TrialGenerator.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.84
